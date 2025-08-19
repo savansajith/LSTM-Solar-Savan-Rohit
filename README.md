@@ -26,7 +26,7 @@ The dataset was obtained from the [Solar Influences Data Center (SILSO)](https:/
 
 ### Dataset Format & Structure
 
-**Filename**: `Monthly_mean_SN_number.txt`  
+**Filename**: `Monthly_mean_SN_number.txt` & `0.1per_wins.csv`
 **Format**: Plain ASCII text  
 
 #### Column Descriptions
