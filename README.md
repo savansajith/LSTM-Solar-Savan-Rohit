@@ -20,7 +20,7 @@ The dataset was obtained from the [Solar Influences Data Center (SILSO)](https:/
 - **Source**: Solar Influences Data Center (SILSO)
 - **Link**: [SN_m_tot_V2.0.txt](https://www.sidc.be/SILSO/DATA/SN_ms_tot_V2.0.txt)
 - **Data Type**: Monthly mean total sunspot number
-- **License**: [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
+- **License**: All Rights Reserved. See the [LICENSE](LICENSE) file for details.
 - **Attribution Required**:  
   > *"Data provided by the Solar Influences Data Center (SILSO), Royal Observatory of Belgium, Brussels"*
 
