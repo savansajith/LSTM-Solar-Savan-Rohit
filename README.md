@@ -67,3 +67,9 @@ The dataset was obtained from the [Solar Influences Data Center (SILSO)](https:/
 
 > **Note**: The final column shows whether the data is provisional (`*`) or finalized (blank).
 
+## How to Run
+
+1. Download ZIP → extract  
+2. `pip install numpy pandas matplotlib scipy seaborn tensorflow plotly scikit-learn jupyter`  
+3. `jupyter notebook`  
+4. Open any `.ipynb` file → fix file paths → Run
