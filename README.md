@@ -2,6 +2,18 @@
 ## Abstract
 This study presents a comprehensive statistical analysis of solar cycles 1–24 and predicts the characteristics of solar cycle 25. Using sunspot number (SSN) data from the Solar Influences Data Center (SILSO), we applied skewed Gaussian fitting to each cycle to quantify asymmetry, tailedness, and overall strength. Our analysis reveals that cycles with rapid rises exhibit higher skewness, while broader, symmetric cycles show lower skewness, highlighting the predictive value of early-cycle behavior. Furthermore, we find that even-numbered cycles display a strong correlation between skewness and kurtosis, suggesting more stable dynamics, whereas odd-numbered cycles show greater variability. To forecast solar cycle 25, we employed a Long Short Term Memory (LSTM) model, which captures nonlinear dependencies and periodic variations in the data. The model predicts a peak SSN of 184.8 in February 2025, indicating that cycle 25 will surpass cycle 24 in both intensity and duration. These findings underscore the importance of incorporating higher-order statistical moments into solar cycle prediction, providing a robust framework for advancing our understanding of solar dynamo processes.
 
+##Dependencies
+This project uses the following Python packages (no `requirements.txt` is included):
+
+- `numpy`
+- `pandas`
+- `matplotlib`
+- `scipy`
+- `seaborn`
+- `tensorflow`
+- `plotly`
+- `scikit-learn`
+
 
 ## Acknowledgements
 This project draws inspiration from the educational content provided by [Spartificial](https://github.com/Spartificial), particularly the [YouTube Academic Projects repository](https://github.com/Spartificial/yt-acad-projs) (2021).
