@@ -67,9 +67,25 @@ The dataset was obtained from the [Solar Influences Data Center (SILSO)](https:/
 
 > **Note**: The final column shows whether the data is provisional (`*`) or finalized (blank).
 
+
 ## How to Run
 
-1. Download ZIP → extract  
-2. `pip install numpy pandas matplotlib scipy seaborn tensorflow plotly scikit-learn jupyter`  
-3. `jupyter notebook`  
-4. Open any `.ipynb` file → fix file paths → Run
+1. **Download & Extract**  
+   - Click the green **Code** button → **Download ZIP**  
+   - Extract the ZIP file to any folder on your computer
+
+2. **Install Dependencies**  
+   - Open your **Terminal** / **Command Prompt** / **Anaconda Prompt**  
+   - Navigate to the extracted folder:
+     ```bash
+     cd path/to/extracted-folder
+
+    - Then run this single command:
+      ```bash
+      pip install numpy pandas matplotlib scipy seaborn tensorflow plotly scikit-learn jupyter
+
+    - Run the project in Jupyter Notebook:
+      ```bash
+      jupyter notebook
+
+    - Replace file paths in the code with the actual paths on your computer and run all cells.
